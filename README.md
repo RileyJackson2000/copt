@@ -1,0 +1,2 @@
+# copt
+Convex Optimization Library
